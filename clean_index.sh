@@ -1,0 +1,9 @@
+#!/bin/bash
+echo Removing visibility graph directory......
+rm -rf dataset/visibility_graph/$1
+
+echo Removing hub label directory......
+rm -rf dataset/hub_label/$1
+
+echo Removing EHL directory......
+rm -rf dataset/ehl/$1

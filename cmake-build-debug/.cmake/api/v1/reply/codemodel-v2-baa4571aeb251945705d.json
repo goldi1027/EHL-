@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EHL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "build_grid_based_hub_labelling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build_grid_based_hub_labelling-Debug-5b8195b7c21fff11879e.json",
+					"name" : "build_grid_based_hub_labelling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "build_query_workload_index::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build_query_workload_index-Debug-e09c6a68eebb196920cd.json",
+					"name" : "build_query_workload_index",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "build_visibility_graph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build_visibility_graph-Debug-2174b07fe884dad603ce.json",
+					"name" : "build_visibility_graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "construct_hl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-construct_hl-Debug-48b36b4dc8b36f97a503.json",
+					"name" : "construct_hl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hub_label_converter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hub_label_converter-Debug-fb89cad9b17cb395eb85.json",
+					"name" : "hub_label_converter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testEHL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testEHL-Debug-b8f7931d5f3d5e4e9ae0.json",
+					"name" : "testEHL",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/goldi/Documents/Research/EHL/cmake-build-debug",
+		"source" : "/home/goldi/Documents/Research/EHL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
